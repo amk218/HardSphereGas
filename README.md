@@ -24,6 +24,8 @@ following datafiles for optional plotting(12):
 - p_T_data_with dev5.txt
 - size_comparison_PTdata2.txt
 
+The repository also contains some png files of the plots made, to demonstrate the results of the simulation.
+
 
 Instructions:
 
