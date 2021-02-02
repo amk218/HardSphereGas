@@ -2,13 +2,13 @@
 This is a 2D simulation of a hard sphere gas. The number of "spheres" and their size can be varied, and the temperature and pressure of the system calculated.
 
 Files included(19)
-This README file
-objects.py
-simulation.py
-testing.py
-investigations.py
-plotting.py
-locate_balls.py
+- This README file
+- objects.py
+- simulation.py
+- testing.py
+- investigations.py
+- plotting.py
+- locate_balls.py
 following datafiles for optional plotting(12):
    - p_T_data_with dev2.txt
    - p_T_A_data3[1].txt
