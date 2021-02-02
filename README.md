@@ -10,18 +10,18 @@ investigations.py
 plotting.py
 locate_balls.py
 following datafiles for optional plotting(12):
-    p_T_data_with dev2.txt
-    p_T_A_data3[1].txt
-    p_T_N_data.txt
-    v_dist_data_new.txt
-    p_T_A_data3[1].txt
-    p_T_A_data2[1].txt
-    p_T_A_data[1].txt
-    p_T_A_data5.txt
-    p_T_data_with dev3.txt
-    p_T_data_with dev4.txt
-    p_T_data_with dev5.txt
-    size_comparison_PTdata2.txt
+   - p_T_data_with dev2.txt
+   - p_T_A_data3[1].txt
+   - p_T_N_data.txt
+   - v_dist_data_new.txt
+   - p_T_A_data3[1].txt
+   - p_T_A_data2[1].txt
+   - p_T_A_data[1].txt
+   - p_T_A_data5.txt
+   - p_T_data_with dev3.txt
+   - p_T_data_with dev4.txt
+   - p_T_data_with dev5.txt
+   - size_comparison_PTdata2.txt
 
 
 Instructions:
